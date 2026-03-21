@@ -63,7 +63,6 @@
 
 <div align="center">
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=F85D7F&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=pauldungca&color=F85D7F&style=for-the-badge)
 
 </div>
