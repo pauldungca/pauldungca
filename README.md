@@ -6,11 +6,11 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pauldungca&theme=react-dark&hide_border=true&bg_color=0D1117&color=4DCE96&line=4DCE96&point=FFFFFF" alt="Activity Graph" width="100%" />
 
-</div>
+</div> -->
 
 --- 
 
